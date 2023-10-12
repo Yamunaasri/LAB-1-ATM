@@ -26,6 +26,11 @@ REGISTER NO: 212222240117
 #### ACTIVITY DIAGRAM:
 ![Screenshot 2023-09-14 112916](https://github.com/Yamunaasri/LAB-1-ATM/assets/115707860/62ad702b-e668-4224-8ccd-598ecab0e419)
 
+#### COMMUNICATION DIAGRAM
+![Screenshot 2023-10-12 104852](https://github.com/Yamunaasri/LAB-1-ATM/assets/115707860/f0aba15b-20e7-4bec-b1ea-c9b1995ba12f)
+
+#### PACKAGE DIAGRAM
+![Screenshot 2023-10-12 104838](https://github.com/Yamunaasri/LAB-1-ATM/assets/115707860/de9fa7ce-f4bb-4b66-88d2-b68ee129f56e)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
